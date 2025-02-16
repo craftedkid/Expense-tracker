@@ -24,7 +24,7 @@ A lightweight **Expense Tracker** built with **Flask** and **SQLite** to help yo
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/ScriptKiddie-0/Expense_Tracker.git
+git clone https://github.com/craftedkid/Expense_Tracker.git
 cd Expense_Tracker
 ```
 
